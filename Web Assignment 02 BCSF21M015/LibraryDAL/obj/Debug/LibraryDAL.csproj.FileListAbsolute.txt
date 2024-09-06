@@ -1,0 +1,234 @@
+C:\Users\Dell\Desktop\LibraryDAL\obj\Debug\LibraryDAL.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\LibraryDAL\obj\Debug\LibraryDAL.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\LibraryDAL\bin\Debug\LibraryDAL.dll.config
+C:\Users\Dell\Desktop\LibraryDAL\bin\Debug\LibraryDAL.dll
+C:\Users\Dell\Desktop\LibraryDAL\bin\Debug\LibraryDAL.pdb
+C:\Users\Dell\Desktop\LibraryDAL\bin\Debug\Azure.Core.dll
+C:\Users\Dell\Desktop\LibraryDAL\bin\Debug\Azure.Identity.dll
+C:\Users\Dell\Desktop\LibraryDAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Dell\Desktop\LibraryDAL\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Dell\Desktop\LibraryDAL\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Dell\Desktop\LibraryDAL\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Dell\Desktop\LibraryDAL\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Dell\Desktop\LibraryDAL\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Dell\Desktop\LibraryDAL\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Dell\Desktop\LibraryDAL\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Dell\Desktop\LibraryDAL\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Dell\Desktop\LibraryDAL\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Dell\Desktop\LibraryDAL\bin\Debug\System.Buffers.dll
+C:\Users\Dell\Desktop\LibraryDAL\bin\Debug\System.ClientModel.dll
+C:\Users\Dell\Desktop\LibraryDAL\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Dell\Desktop\LibraryDAL\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dell\Desktop\LibraryDAL\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Dell\Desktop\LibraryDAL\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\Dell\Desktop\LibraryDAL\bin\Debug\System.Memory.Data.dll
+C:\Users\Dell\Desktop\LibraryDAL\bin\Debug\System.Memory.dll
+C:\Users\Dell\Desktop\LibraryDAL\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Dell\Desktop\LibraryDAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Dell\Desktop\LibraryDAL\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Dell\Desktop\LibraryDAL\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dell\Desktop\LibraryDAL\bin\Debug\System.Security.Permissions.dll
+C:\Users\Dell\Desktop\LibraryDAL\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Dell\Desktop\LibraryDAL\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Dell\Desktop\LibraryDAL\bin\Debug\System.Text.Json.dll
+C:\Users\Dell\Desktop\LibraryDAL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Dell\Desktop\LibraryDAL\bin\Debug\System.ValueTuple.dll
+C:\Users\Dell\Desktop\LibraryDAL\bin\Debug\Azure.Core.xml
+C:\Users\Dell\Desktop\LibraryDAL\bin\Debug\Azure.Identity.xml
+C:\Users\Dell\Desktop\LibraryDAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Dell\Desktop\LibraryDAL\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\Dell\Desktop\LibraryDAL\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Dell\Desktop\LibraryDAL\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\Dell\Desktop\LibraryDAL\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\Dell\Desktop\LibraryDAL\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Dell\Desktop\LibraryDAL\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Dell\Desktop\LibraryDAL\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Dell\Desktop\LibraryDAL\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Dell\Desktop\LibraryDAL\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Dell\Desktop\LibraryDAL\bin\Debug\System.Buffers.xml
+C:\Users\Dell\Desktop\LibraryDAL\bin\Debug\System.ClientModel.xml
+C:\Users\Dell\Desktop\LibraryDAL\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Dell\Desktop\LibraryDAL\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Dell\Desktop\LibraryDAL\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Dell\Desktop\LibraryDAL\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\Dell\Desktop\LibraryDAL\bin\Debug\System.Memory.xml
+C:\Users\Dell\Desktop\LibraryDAL\bin\Debug\System.Memory.Data.xml
+C:\Users\Dell\Desktop\LibraryDAL\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Dell\Desktop\LibraryDAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Dell\Desktop\LibraryDAL\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Dell\Desktop\LibraryDAL\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\Dell\Desktop\LibraryDAL\bin\Debug\System.Security.Permissions.xml
+C:\Users\Dell\Desktop\LibraryDAL\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Dell\Desktop\LibraryDAL\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Dell\Desktop\LibraryDAL\bin\Debug\System.Text.Json.xml
+C:\Users\Dell\Desktop\LibraryDAL\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Dell\Desktop\LibraryDAL\bin\Debug\System.ValueTuple.xml
+C:\Users\Dell\Desktop\LibraryDAL\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dell\Desktop\LibraryDAL\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dell\Desktop\LibraryDAL\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dell\Desktop\LibraryDAL\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dell\Desktop\LibraryDAL\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dell\Desktop\LibraryDAL\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dell\Desktop\LibraryDAL\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dell\Desktop\LibraryDAL\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dell\Desktop\LibraryDAL\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dell\Desktop\LibraryDAL\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dell\Desktop\LibraryDAL\obj\Debug\LibraryDAL.csproj.Up2Date
+C:\Users\Dell\Desktop\LibraryDAL\obj\Debug\LibraryDAL.dll
+C:\Users\Dell\Desktop\LibraryDAL\obj\Debug\LibraryDAL.pdb
+C:\Users\Dell\Desktop\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\LibraryDAL.dll.config
+C:\Users\Dell\Desktop\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\LibraryDAL.dll
+C:\Users\Dell\Desktop\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\LibraryDAL.pdb
+C:\Users\Dell\Desktop\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\Azure.Core.dll
+C:\Users\Dell\Desktop\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\Azure.Identity.dll
+C:\Users\Dell\Desktop\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Dell\Desktop\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Dell\Desktop\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Dell\Desktop\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Dell\Desktop\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Dell\Desktop\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Dell\Desktop\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Dell\Desktop\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Dell\Desktop\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Dell\Desktop\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Dell\Desktop\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\System.Buffers.dll
+C:\Users\Dell\Desktop\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\System.ClientModel.dll
+C:\Users\Dell\Desktop\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Dell\Desktop\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dell\Desktop\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Dell\Desktop\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\Dell\Desktop\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\System.Memory.Data.dll
+C:\Users\Dell\Desktop\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\System.Memory.dll
+C:\Users\Dell\Desktop\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Dell\Desktop\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Dell\Desktop\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Dell\Desktop\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dell\Desktop\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\System.Security.Permissions.dll
+C:\Users\Dell\Desktop\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Dell\Desktop\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Dell\Desktop\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\System.Text.Json.dll
+C:\Users\Dell\Desktop\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Dell\Desktop\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\System.ValueTuple.dll
+C:\Users\Dell\Desktop\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\Azure.Core.xml
+C:\Users\Dell\Desktop\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\Azure.Identity.xml
+C:\Users\Dell\Desktop\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Dell\Desktop\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\Dell\Desktop\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Dell\Desktop\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\Dell\Desktop\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\Dell\Desktop\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Dell\Desktop\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Dell\Desktop\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Dell\Desktop\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Dell\Desktop\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Dell\Desktop\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\System.Buffers.xml
+C:\Users\Dell\Desktop\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\System.ClientModel.xml
+C:\Users\Dell\Desktop\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Dell\Desktop\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Dell\Desktop\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Dell\Desktop\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\Dell\Desktop\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\System.Memory.xml
+C:\Users\Dell\Desktop\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\System.Memory.Data.xml
+C:\Users\Dell\Desktop\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Dell\Desktop\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Dell\Desktop\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Dell\Desktop\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\Dell\Desktop\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\System.Security.Permissions.xml
+C:\Users\Dell\Desktop\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Dell\Desktop\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Dell\Desktop\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\System.Text.Json.xml
+C:\Users\Dell\Desktop\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Dell\Desktop\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\System.ValueTuple.xml
+C:\Users\Dell\Desktop\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dell\Desktop\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dell\Desktop\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dell\Desktop\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dell\Desktop\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dell\Desktop\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dell\Desktop\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dell\Desktop\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dell\Desktop\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dell\Desktop\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dell\Desktop\Web Assignment 02 BCSF21M015\LibraryDAL\obj\Debug\LibraryDAL.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\Web Assignment 02 BCSF21M015\LibraryDAL\obj\Debug\LibraryDAL.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Web Assignment 02 BCSF21M015\LibraryDAL\obj\Debug\LibraryDAL.csproj.Up2Date
+C:\Users\Dell\Desktop\Web Assignment 02 BCSF21M015\LibraryDAL\obj\Debug\LibraryDAL.dll
+C:\Users\Dell\Desktop\Web Assignment 02 BCSF21M015\LibraryDAL\obj\Debug\LibraryDAL.pdb
+D:\6th Semester\Web\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\LibraryDAL.dll.config
+D:\6th Semester\Web\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\LibraryDAL.dll
+D:\6th Semester\Web\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\LibraryDAL.pdb
+D:\6th Semester\Web\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\Azure.Core.dll
+D:\6th Semester\Web\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\Azure.Identity.dll
+D:\6th Semester\Web\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\6th Semester\Web\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\6th Semester\Web\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\Microsoft.Identity.Client.dll
+D:\6th Semester\Web\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\6th Semester\Web\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\6th Semester\Web\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\6th Semester\Web\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\6th Semester\Web\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\6th Semester\Web\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\6th Semester\Web\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\6th Semester\Web\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\System.Buffers.dll
+D:\6th Semester\Web\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\System.ClientModel.dll
+D:\6th Semester\Web\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\6th Semester\Web\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\6th Semester\Web\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\6th Semester\Web\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\System.IO.FileSystem.AccessControl.dll
+D:\6th Semester\Web\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\System.Memory.Data.dll
+D:\6th Semester\Web\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\System.Memory.dll
+D:\6th Semester\Web\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\System.Numerics.Vectors.dll
+D:\6th Semester\Web\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\6th Semester\Web\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\System.Security.AccessControl.dll
+D:\6th Semester\Web\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\6th Semester\Web\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\System.Security.Permissions.dll
+D:\6th Semester\Web\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\System.Security.Principal.Windows.dll
+D:\6th Semester\Web\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\System.Text.Encodings.Web.dll
+D:\6th Semester\Web\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\System.Text.Json.dll
+D:\6th Semester\Web\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\6th Semester\Web\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\System.ValueTuple.dll
+D:\6th Semester\Web\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\Azure.Core.xml
+D:\6th Semester\Web\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\Azure.Identity.xml
+D:\6th Semester\Web\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\6th Semester\Web\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\6th Semester\Web\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\Microsoft.Identity.Client.xml
+D:\6th Semester\Web\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\6th Semester\Web\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\6th Semester\Web\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\6th Semester\Web\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\6th Semester\Web\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\6th Semester\Web\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\6th Semester\Web\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\6th Semester\Web\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\System.Buffers.xml
+D:\6th Semester\Web\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\System.ClientModel.xml
+D:\6th Semester\Web\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\6th Semester\Web\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\6th Semester\Web\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\6th Semester\Web\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\6th Semester\Web\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\System.Memory.xml
+D:\6th Semester\Web\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\System.Memory.Data.xml
+D:\6th Semester\Web\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\System.Numerics.Vectors.xml
+D:\6th Semester\Web\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\6th Semester\Web\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\System.Security.AccessControl.xml
+D:\6th Semester\Web\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\6th Semester\Web\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\System.Security.Permissions.xml
+D:\6th Semester\Web\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\System.Security.Principal.Windows.xml
+D:\6th Semester\Web\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\System.Text.Encodings.Web.xml
+D:\6th Semester\Web\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\System.Text.Json.xml
+D:\6th Semester\Web\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\6th Semester\Web\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\System.ValueTuple.xml
+D:\6th Semester\Web\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\6th Semester\Web\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\6th Semester\Web\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\6th Semester\Web\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\6th Semester\Web\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\6th Semester\Web\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\6th Semester\Web\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\6th Semester\Web\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\6th Semester\Web\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\6th Semester\Web\Web Assignment 02 BCSF21M015\LibraryDAL\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\6th Semester\Web\Web Assignment 02 BCSF21M015\LibraryDAL\obj\Debug\LibraryDAL.csproj.AssemblyReference.cache
+D:\6th Semester\Web\Web Assignment 02 BCSF21M015\LibraryDAL\obj\Debug\LibraryDAL.csproj.CoreCompileInputs.cache
+D:\6th Semester\Web\Web Assignment 02 BCSF21M015\LibraryDAL\obj\Debug\LibraryDAL.csproj.Up2Date
+D:\6th Semester\Web\Web Assignment 02 BCSF21M015\LibraryDAL\obj\Debug\LibraryDAL.dll
+D:\6th Semester\Web\Web Assignment 02 BCSF21M015\LibraryDAL\obj\Debug\LibraryDAL.pdb
